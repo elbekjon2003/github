@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.userForm{
+    /* background-color: green; */
+    margin-top: 20px;
+}
+.userForm input{
+    width: 300px;
+    height: 40px;
+    padding: 0 12px;
+    border-radius: 10px;
+    outline: none;
+}
+
+.userForm button{
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: #5cb85c;
+    color: #fff;
+    border: none;
+}
